@@ -9,7 +9,7 @@ Questa esercitazione illustra i concetti fondamentali della **virtualizzazione**
 
 ## Link alla Presentazione
 Puoi visualizzare la presentazione dinamica realizzata con Prezi al seguente link:
-👉 [Link alla mia presentazione Prezi](Ihttps://prezi.com/view/hnoaV2FQwhjlHy7ROccJ/?referral_token=4SYSz-lnB3FN)
+👉 [https://prezi.com/view/hnoaV2FQwhjlHy7ROccJ/?referral_token=4SYSz-lnB3FN]
 
 ---
 *Studente: Domeniconi Francesco*
