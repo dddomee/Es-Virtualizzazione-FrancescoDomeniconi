@@ -1,4 +1,4 @@
-# Es-Virtualizzazione-NomeCognome
+# Es-Virtualizzazione-FrancescoDomeniconi
 
 ## Descrizione del Progetto
 Questa esercitazione illustra i concetti fondamentali della **virtualizzazione** e l'importanza del **versionamento del codice** tramite GitHub.
